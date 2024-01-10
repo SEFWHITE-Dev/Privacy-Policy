@@ -21,9 +21,9 @@ For more details about Admob and how they collect information please refer to th
 Use of Data
 
 SEFWHITE uses the collected data for various purposes:
-To maintain and provide to our Service.
-To gather analysis so that we can improve our Service. See which app features are being used the most.
-To monitor the usage of our Service.
+ - To maintain and provide to our Service.
+ - To gather analysis so that we can improve our Service. See which app features are being used the most.
+ - To monitor the usage of our Service.
 
 
 Third-party links
